@@ -6,11 +6,13 @@ books and articles
   «Гибкое тестирование» Л. Криспин
   «Fifty Quick Ideas To Improve Your Tests» Г. Аджич
   «Шаблоны тестирования xUnit. Рефакторинг кода тестов» Д. Месарош
+ 
 
 #Python, pytest books
   Python testing with pytest Brian Okken
   Pytest Quick Start Guide Bruno Oliveira
   Hands on Enterprise Automation with Python Bassem Aly
+  Python на практике. Создание качественных программ с использованием параллелизма, библиотек и паттернов. Марк Саммерфильд
 
 #articles
   http://toly.github.io/blog/2014/03/05/advanced-design-patterns-in-python/
